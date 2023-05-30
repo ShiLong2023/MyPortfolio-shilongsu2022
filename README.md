@@ -1,1 +1,1 @@
-This is Shi Long's APCSP# APCSP
+# This is Shi Long's APCSP portfolio of Java script projects
